@@ -1,3 +1,4 @@
 tensorflow
 distutils
 opencv-python
+tabulate
